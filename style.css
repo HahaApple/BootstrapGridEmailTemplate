@@ -1,0 +1,8 @@
+ul li:hover {
+    font-size: 1.1em;
+}
+
+.card:hover {
+    border: #222222;
+    box-shadow: 10px 10px 10px grey;
+}
