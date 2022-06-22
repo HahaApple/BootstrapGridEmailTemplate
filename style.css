@@ -9,3 +9,18 @@ ul li:hover {
     border: #222222;
     box-shadow: 10px 10px 10px grey;
 }
+
+.email-input {
+    border: none;
+}
+@media (min-width: 992px) {
+    .emailadd {
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) {
+    .emailadd {
+        width: 65%;
+    }
+}
